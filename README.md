@@ -1,4 +1,4 @@
-## Olá! Eu sou o Junior Vinicius!
+## Olá! Eu sou o Junior Vinicius, estudante de Sistemas de Informação e amante de tecnologia!
 <div align="center">
   <a href="https://github.com/JuniorTen">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuniorTen&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>

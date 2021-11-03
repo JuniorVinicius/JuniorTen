@@ -1,8 +1,8 @@
-## Olá! Eu sou o Junior Vinicius, estudante de Sistemas de Informação e amante de tecnologia!
+## Olá! Eu sou o Junior Vinicius!
 <div align="center">
   <a href="https://github.com/JuniorTen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorTen&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTen&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuniorTen&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTen&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div> <br>
   <b>Atualmente estudo e desenvolvo nas tecnologias:<b/>
 <div style="display: inline_block"><br>

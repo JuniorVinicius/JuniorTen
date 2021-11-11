@@ -26,3 +26,6 @@
 <a href="https://github.com/JuniorTen/Contact-List">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorTen&repo=Contact-List&theme=midnight-purple" />
 </a>
+<a href="https://github.com/JuniorTen/Projetos_UFAL-Build_this_Site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorTen&repo=Projetos_UFAL-Build_this_Site&theme=midnight-purple" />
+</a>

@@ -23,6 +23,6 @@
  
   ## Repositórios
     
-<a href="https://github.com/JuniorTen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorTen&repo=Contact-List&show_icons=true&theme=midnight-purple" />
+<a href="https://github.com/JuniorTen/Contact-List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorTen&repo=Contact-List&theme=midnight-purple" />
 </a>
